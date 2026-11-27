@@ -1,0 +1,120 @@
+[
+  {
+    "id": 1,
+    "name": "Комп’ютерна діагностика",
+    "category": "Діагностика",
+    "price": 600,
+    "image": "images/computer-diagnostics.svg",
+    "badge": "Хіт",
+    "specs": "Зчитування помилок усіх блоків керування, ~30 хв"
+  },
+  {
+    "id": 2,
+    "name": "Діагностика ходової",
+    "category": "Діагностика",
+    "price": 400,
+    "image": "images/suspension-diagnostics.svg",
+    "specs": "Огляд підвіски, рульового керування та ступиць"
+  },
+  {
+    "id": 3,
+    "name": "Заміна масла і фільтра",
+    "category": "Двигун і ТО",
+    "price": 500,
+    "image": "images/oil-change.svg",
+    "badge": "Хіт",
+    "specs": "Робота: масло двигуна та масляний фільтр, ~40 хв"
+  },
+  {
+    "id": 4,
+    "name": "Заміна ременя ГРМ",
+    "category": "Двигун і ТО",
+    "price": 3500,
+    "image": "images/timing-belt.svg",
+    "badge": "Топ",
+    "specs": "Комплект: ремінь, ролики, помпа; 4–5 годин"
+  },
+  {
+    "id": 5,
+    "name": "Заміна свічок запалювання",
+    "category": "Двигун і ТО",
+    "price": 450,
+    "image": "images/spark-plugs.svg",
+    "specs": "Комплект на 4 циліндри, діагностика котушок"
+  },
+  {
+    "id": 6,
+    "name": "Заміна амортизаторів (пара)",
+    "category": "Ходова",
+    "price": 1800,
+    "image": "images/shock-absorbers.svg",
+    "specs": "Передня або задня вісь, з опорами та пиловиками"
+  },
+  {
+    "id": 7,
+    "name": "Заміна важелів і сайлентблоків",
+    "category": "Ходова",
+    "price": 1200,
+    "image": "images/control-arms.svg",
+    "specs": "Ціна за один важіль, з пресуванням сайлентблоків"
+  },
+  {
+    "id": 8,
+    "name": "Розвал-сходження",
+    "category": "Ходова",
+    "price": 900,
+    "image": "images/wheel-alignment.svg",
+    "badge": "Вигідно",
+    "specs": "3D-стенд, друк результатів до і після"
+  },
+  {
+    "id": 9,
+    "name": "Заміна гальмівних колодок",
+    "category": "Гальма",
+    "price": 700,
+    "image": "images/brake-pads.svg",
+    "specs": "Ціна за вісь, чищення й змащення супортів"
+  },
+  {
+    "id": 10,
+    "name": "Заміна гальмівних дисків",
+    "category": "Гальма",
+    "price": 1300,
+    "image": "images/brake-discs.svg",
+    "badge": "Топ",
+    "specs": "Ціна за вісь, з колодками — знижка на роботу"
+  },
+  {
+    "id": 11,
+    "name": "Шиномонтаж 4 колес R15–R17",
+    "category": "Шини",
+    "price": 800,
+    "image": "images/tire-fitting.svg",
+    "specs": "Зняття, монтаж, балансування, встановлення"
+  },
+  {
+    "id": 12,
+    "name": "Балансування колеса",
+    "category": "Шини",
+    "price": 120,
+    "image": "images/wheel-balancing.svg",
+    "badge": "Вигідно",
+    "specs": "Ціна за одне колесо, вантажі в комплекті"
+  },
+  {
+    "id": 13,
+    "name": "Заправка кондиціонера",
+    "category": "Електрика та клімат",
+    "price": 1200,
+    "image": "images/ac-refill.svg",
+    "specs": "Вакуумування, фреон R134a, перевірка герметичності"
+  },
+  {
+    "id": 14,
+    "name": "Заміна акумулятора",
+    "category": "Електрика та клімат",
+    "price": 350,
+    "image": "images/battery-replace.svg",
+    "specs": "Робота з перевіркою генератора та клем"
+  }
+]
