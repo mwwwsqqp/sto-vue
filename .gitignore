@@ -1,0 +1,15 @@
+# залежності та збірка
+node_modules
+dist
+
+# логи
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# редактори та ОС
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.local
